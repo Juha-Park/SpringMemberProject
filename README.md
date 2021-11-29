@@ -1,7 +1,7 @@
-# Project Roadmap
+# * Project Roadmap
 ![roadmap](./show/roadmap.PNG)
 
-# Project Spec
+# * Project Spec
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 
