@@ -2,4 +2,4 @@
 ![roadmap](./show/roadmap.PNG)
 
 # Project Spec
-![project spec](./show/project spec.htm)
+[project spec](./show/project spec.htm)
