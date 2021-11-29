@@ -1,6 +1,3 @@
-# * Project Roadmap
-![roadmap](./show/roadmap.PNG)
-
 # * Project Spec
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
@@ -902,3 +899,12 @@
 
 </HTML>
 
+# * Project Roadmap
+![roadmap](./show/roadmap.PNG)
+	
+# * Project Tables/Diagrams
+![board_테이블](./show/board_테이블.PNG)
+![member2_테이블](./show/member2_테이블.PNG)
+![root-context](./show/root-context.PNG)
+![servlet-context](./show/servlet-context.PNG)
+![url_mappings](./show/url_mappings.PNG)
