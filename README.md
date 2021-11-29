@@ -1,4 +1,4 @@
 # Project Roadmap
-!(/../SpringMemberProject/show/roadmap.png)
+!(/../main/SpringMemberProject/show/roadmap.png)
 
 
